@@ -1,0 +1,115 @@
+/* h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    padding: 0;
+} */
+.bill .title{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.bill  p{
+    margin: 0;
+    padding: 0;
+}
+.bill .container{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.bill .brand-section{
+   background-color: #0d1033;
+   padding: 10px 40px;
+}
+
+
+.bill .row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.bill .col-6{
+    width: 50%;
+    flex: 0 0 auto;
+}
+.bill .text-white{
+    color: #fff;
+}
+.bill .company-details{
+    float: right;
+    text-align: right;
+}
+.bill .body-section{
+    padding: 16px;
+    border: 1px solid gray;
+}
+.bill .heading{
+    font-size: 18px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.bill .heading1{
+    font-size: 18px;
+    margin: 15px 0;
+    font-weight: bold;
+}
+.bill .sub-heading{
+    color: #262626;
+    margin-bottom: 05px;
+    font-family: Arial ;
+}
+.bill table{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+}
+.bill table thead tr{
+    border: 1px solid #111;
+    background-color: #f2f2f2;
+}
+.bill table td {
+    vertical-align: middle !important;
+    text-align: center;
+}
+#bill1 th, #bill1 td {
+    padding-top: 08px;
+    padding-bottom: 08px;
+    text-align: center;
+
+}
+#bill2 th, #bill2 td {
+    padding-top: 08px;
+    padding-bottom: 08px;
+    text-align: center;
+
+}
+.bill .table-bordered{
+    box-shadow: 0px 0px 5px 0.5px gray;
+}
+.bill .table-bordered td, .table-bordered th {
+    border: 1px solid #dee2e6;
+}
+.bill .text-right{
+    text-align: end;
+}
+.bill .w-20{
+    width: 20%;
+}
+.bill  .float-right{
+    float: right;
+}
+
+.bill .row ,.footer{
+    margin-top: 20px;
+}
+#thanhtoan{
+    color: red;
+}
+#divngaylap{
+    padding-left: 50%;
+    position: relative;
+    bottom:  50px;
+}
+#ngaylap #textngaylap{
+    text-align: center;
+}
+

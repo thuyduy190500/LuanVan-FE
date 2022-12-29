@@ -1,0 +1,79 @@
+.btn-add-client{
+    font-size: 13px;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(253, 4, 4);
+    font-weight: bold;
+}
+.btn-detail{
+    font-size: 13px;
+    margin-top: 20px;
+    background-color: rgb(230, 17, 91);
+    color: white;
+
+}
+.card-detail{
+    background-color: rgb(247, 243, 243);
+    width: 180px;
+}
+.card-add-client{
+    background-color: rgb(96, 207, 255);
+    width: 180px;
+}
+.card-add-client-detail{
+    background-color: rgb(238, 193, 122);
+    width: 180px;
+}
+.card-add-client-detail .two-btn{
+   display: flex;
+}
+.card-add-client-detail .btn-add-client{
+    position:absolute;
+    right: 0;
+    font-size: 11px;
+    margin-right: 3px;
+}
+.card-add-client-detail .btn-detail{
+    right: 19px;
+    font-size: 11px;
+}
+
+.price{
+    margin-top: 15px;
+    color: rgb(98, 104, 104);
+}
+.price p{
+    color: rgb(63, 59, 63);
+    margin: 2px 0;
+    color: rgb(31, 125, 53);
+}
+
+.price span{
+   font-weight: bold;
+   color: black;
+}
+
+.client-name span{
+font-size: 13px;
+color: rgb(185, 6, 132);
+}
+
+
+    .ant-btn-primary .add-room
+        {
+            margin-right: 11% ;
+            width: 15%;
+            position: absolute;
+            background-color: rgb(203, 49, 49);
+} 
+
+.btn-house{
+    margin: 0 0 15px 400px ;
+
+}
+.row{
+    display: flex;
+}
+.list-room{
+    color: white;
+}
